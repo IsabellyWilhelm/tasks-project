@@ -1,9 +1,9 @@
 :root {
-    --primary:	#4B0082;
-    --title: #010101;
-    --text: #3d3c3c;
-    --bg: #eee;
-    --bg-2: #fff;
+    --primary:	#03c7a6;
+    --title: #aeda8a;
+    --text: #66efd7;
+    --bg: #dfece6;
+    --bg-2: #040203;
     --bg-element: #f1f3f5;
     --urgente: #f58737;
     --prioridade: #77e864;
@@ -126,7 +126,7 @@
   }
   
   .task form button[disabled="true"] {
-    background:		#4B0082;
+    background:		#334756;
   }
   
   .task-itens p {
