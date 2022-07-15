@@ -2,7 +2,7 @@
     --primary:	hsl(66, 91%, 44%);
     --title: #fcf8f8;
     --text: #e42908;
-    --bg: #ebebd1;
+    --bg: #ffffff;
     --bg-2: #020516;
     --bg-element: #f1f3f5;
     --urgente: #b11409;
@@ -16,7 +16,7 @@
   }
   
   body {
-    background: var(--bg);
+    background: (--bg);
   }
   
   .header {
